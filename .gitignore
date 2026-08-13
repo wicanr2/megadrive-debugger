@@ -1,0 +1,16 @@
+# 原版衍生物一律不入版控
+*.md5
+*.bin
+*.gen
+*.smd
+*.vgm
+*.vgz
+*.wav
+*.png
+out/
+workplace/
+__pycache__/
+*.pyc
+
+# ROM 常用 .md 副檔名，與 markdown 撞名：只擋 rom/ 底下的
+rom/
